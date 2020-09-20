@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.synthetichuman.covid19destroyer"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>COVID-19 Destroyer</name>
+
+  <description>
+      A satisfying stress-reliever.
+  </description>
+
+  <author href="scratch.mit.edu/users/SyntheticHuman" email="the.synthetic.human@gmail.com">
+      SyntheticHuman
+  </author>
+  
+  <icon src="icon.png" />
+
+</widget>
