@@ -18,5 +18,7 @@
   </author>
   
   <icon src="icon.png" />
+  <preference name="android-minSdkVersion"  value="26" />
+  <preference name="android-targetSdkVersion"  value="29" />
 
 </widget>
